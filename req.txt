@@ -6,3 +6,5 @@ scikit-learn
 st-pages
 nltk
 joblib
+pip install joblib
+
